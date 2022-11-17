@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-These are the technologies I can use.
+## 🛠 &nbsp;Tech Stack
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+![HTML](https://img.shields.io/badge/-HTML-161616?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)&nbsp;
