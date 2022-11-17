@@ -1,6 +1,6 @@
 # 👋 Hello everyone 
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=HTML5&logoColor=E34F26"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
