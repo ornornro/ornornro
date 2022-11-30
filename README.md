@@ -1,4 +1,4 @@
-## 👋 Hello everyone 
+## 👋 Hello
 
 ## 🛠 Tech Stack
 
