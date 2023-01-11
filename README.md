@@ -1,6 +1,6 @@
-## 👋 Hello
+## Hello
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <a href="#"><img src="https://img.shields.io/badge/Java-000000?style=flat-plastic&logo=java&logoColor=007396"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Mysql-000000?style=flat-plastic&logo=MariaDB Foundation&logoColor=blue"/></a><br />
@@ -10,3 +10,7 @@
 <a href="#"><img src="https://img.shields.io/badge/jQuery-000000?style=flat-plastic&logo=jquery&logoColor=0769AD"></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-plastic&logo=AdobePhotoshop&logoColor=31A8FF"/></a> -->
 <!-- <a href="#"><img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-plastic&logo=Adobe Illustrator&logoColor=FF9A00"/></a> -->
+
+## Contact
+
+<a href="mailto:roornorn@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=D0A9F5&link=mailto:roornorn@gmail.com"/></a>
