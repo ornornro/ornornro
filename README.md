@@ -8,5 +8,5 @@
 <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=flat-plastic&logo=CSS3&logoColor=1572B6"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-plastic&logo=JavaScript&logoColor=F7DF1E"/></a>
 <a href="#"><img src="https://img.shields.io/badge/jQuery-000000?style=flat-plastic&logo=jquery&logoColor=0769AD"></a>
-<a href="#"><img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-plastic&logo=AdobePhotoshop&logoColor=31A8FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-plastic&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-plastic&logo=AdobePhotoshop&logoColor=31A8FF"/></a> -->
+<!-- <a href="#"><img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-plastic&logo=Adobe Illustrator&logoColor=FF9A00"/></a> -->
