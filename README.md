@@ -12,4 +12,4 @@
 ## Contact
 
 <a href="mailto:roornorn@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-plastic&logo=Gmail&logoColor=EA4335&link=mailto:roornorn@gmail.com"/></a>
-<a href="https://www.instagram.com/ornornro/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-plastic&logo=Instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/ornornro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-plastic&logo=Instagram&logoColor=E4405F"/></a>
