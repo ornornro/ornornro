@@ -1,14 +1,25 @@
-## Hello
+## Hello <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">
+</a>
 
 ## Tech Stack
 
-<a href="#"><img src="https://img.shields.io/badge/Java-000000?style=flat-plastic&logo=java&logoColor=007396"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-000000?style=flat-plastic&logo=PHP&logoColor=777BB4"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-plastic&logo=HTML5&logoColor=E34F26"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-000000?style=flat-plastic&logo=CSS3&logoColor=1572B6"/></a>
+#### Language
+<a href="#"><img src="https://img.shields.io/badge/JAVA-000000?style=flat-plastic&logo=OpenJDK&logoColor=007396"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-plastic&logo=JavaScript&logoColor=F7DF1E"/></a></br>
+
+#### Back-End
+<a href="#"><img src="https://img.shields.io/badge/Spring-000000?style=flat-plastic&logo=Spring&logoColor=6DB33F"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-plastic&logo=Spring Boot&logoColor=6DB33F"/></a></br>
+
+#### DataBase
 <a href="#"><img src="https://img.shields.io/badge/MySQL-000000?style=flat-plastic&logo=MySQL&logoColor=4479A1"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MS SQL Server-000000?style=flat-plastic&logo=Microsoft SQL Server&logoColor=CC2927"/></a></br>
+
+#### etc
+<a href="#"><img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-plastic&logo=Adobe Photoshop&logoColor=31A8FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-plastic&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-plastic&logo=HTML5&logoColor=E34F26"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-000000?style=flat-plastic&logo=CSS3&logoColor=1572B6"/></a></br>
 
 ## Contact
 
