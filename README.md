@@ -3,15 +3,11 @@
 
 ## Tech Stack
 
-#### Language
 <a href="#"><img src="https://img.shields.io/badge/JAVA-000000?style=flat-plastic&logo=OpenJDK&logoColor=007396"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-plastic&logo=JavaScript&logoColor=F7DF1E"/></a></br>
-
-#### Back-End
+<a href="#"><img src="https://img.shields.io/badge/jQuery-000000?style=flat-plastic&logo=jQuery&logoColor=0769AD"/></a></br>
 <a href="#"><img src="https://img.shields.io/badge/Spring-000000?style=flat-plastic&logo=Spring&logoColor=6DB33F"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-plastic&logo=Spring Boot&logoColor=6DB33F"/></a></br>
-
-#### DataBase
 <a href="#"><img src="https://img.shields.io/badge/MySQL-000000?style=flat-plastic&logo=MySQL&logoColor=4479A1"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MS SQL Server-000000?style=flat-plastic&logo=Microsoft SQL Server&logoColor=CC2927"/></a></br>
 
