@@ -12,6 +12,7 @@
 <a href="#"><img src="https://img.shields.io/badge/MS SQL Server-000000?style=flat-plastic&logo=Microsoft SQL Server&logoColor=CC2927"/></a></br>
 
 #### etc
+<a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=flat-plastic&logo=Figma&logoColor=F24E1E"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-plastic&logo=Adobe Photoshop&logoColor=31A8FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-plastic&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-plastic&logo=HTML5&logoColor=E34F26"/></a>
